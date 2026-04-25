@@ -4,7 +4,7 @@ body {
     color: #FFFACD;
 }
 
-header h1{
+.text-center {
     text-align: center;
 }
 
@@ -35,4 +35,8 @@ header h1{
     margin: 2em;
     border: solid #FFFACD;
     padding: 1em;
+}
+
+#redirect {
+    color: #FFFACD;
 }
